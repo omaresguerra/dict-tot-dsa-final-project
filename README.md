@@ -1,6 +1,6 @@
-# SCORCHING HEAT: Unveiling Heat Temperatures of Major Philippine Cities Through Exploratory Data Analysis
+# Scorching Heat: Unveiling Heat Temperatures of Major Philippine Cities Through Exploratory Data Analysis
 
-![Project Logo](output/header.png)
+![Project Logo](outputs/header.png)
 
 ## Project Overview
 
@@ -17,7 +17,7 @@ This project, titled **SCORCHING HEAT**, aims to analyze the heat temperatures o
 
 - **Data Cleaning**: Processes to handle missing values, outliers, and data inconsistencies.
 - **Exploratory Data Analysis (EDA)**: Key insights derived using statistical summaries, distribution analysis, and correlation checks.
-- **Visualizations**: Heatmaps, line plots, box plots, and histograms showcasing the data's underlying patterns.
+- **Visualizations**: Line plots, bar plots, box plots, and density plots showcasing the data's underlying patterns.
 - **Summary of Findings**: A detailed section on the interpretation of results, with potential causes and effects of heat patterns in different cities.
 
 ## Tech Stack
@@ -26,5 +26,4 @@ This project, titled **SCORCHING HEAT**, aims to analyze the heat temperatures o
 - **ggplot2**: For creating visually appealing plots and charts.
 - **dplyr**: To manipulate data and perform transformations.
 - **readr**: For data input/output operations.
-- **shiny** (optional): If you plan to create an interactive dashboard to present findings.
 
