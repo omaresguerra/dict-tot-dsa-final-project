@@ -1,6 +1,6 @@
 # SCORCHING HEAT: Unveiling Heat Temperatures of Major Philippine Cities Through Exploratory Data Analysis
 
-![Project Logo](path-to-logo-image-if-any)
+![Project Logo](output/header.png)
 
 ## Project Overview
 
