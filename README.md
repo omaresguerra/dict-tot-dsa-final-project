@@ -1,10 +1,10 @@
-# Scorching Heat: Unveiling Heat Temperatures of Major Philippine Cities Through Exploratory Data Analysis
+# DICT-TOT Data Science and Analytics 2024 Final Poster Output
 
 ![Project Logo](outputs/header.png)
 
 ## Project Overview
 
-This project, titled **SCORCHING HEAT**, aims to analyze the heat temperatures of major cities in the Philippines through Exploratory Data Analysis (EDA) techniques. The project is part of the final requirement for the **Training of Trainers on Data Science and Analytics 2024**, hosted by DICT Region 2. The primary objective is to provide insights into temperature patterns and trends, as well as to identify significant climatic factors affecting these cities.
+This project, titled **Scorching Heat**, aims to analyze the heat temperatures of major cities in the Philippines through Exploratory Data Analysis (EDA) techniques. The project is part of the final requirement for the **Training of Trainers on Data Science and Analytics 2024**, hosted by DICT Region 2. The primary objective is to provide insights into temperature patterns and trends, as well as to identify significant climatic factors affecting these cities.
 
 ## Objectives
 
